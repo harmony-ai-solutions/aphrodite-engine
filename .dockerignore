@@ -1,3 +1,5 @@
 conda/
 build/
 venv/
+.docker-root/
+.caches/
